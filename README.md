@@ -1,4 +1,4 @@
-# LeetCode_SQL_Resp
+# LeetCode-SQL-Solution
 
 ## 项目简介
 
